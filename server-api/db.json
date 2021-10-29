@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "6006fa72-988c-48c0-b87d-1caf9a756c87",
+      "name": "min test 1",
+      "email": "min.com"
+    },
+    {
+      "id": "65869a68-035f-4179-a59d-95d8acdfb7f8",
+      "name": "amit2",
+      "email": "amit112.com"
+    },
+    {
+      "id": "6b4be827-0453-46ce-aeea-b73da1dcd697",
+      "name": "namse12",
+      "email": "namasteJavascript"
+    }
+  ]
+}
